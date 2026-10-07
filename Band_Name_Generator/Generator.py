@@ -1,0 +1,5 @@
+print("Greetings! Are you ready to rock out?!? But wait, first your band needs a name! What shall you name it?")
+print("To make the process a little easier, answer the questions below.")
+city = input("What city did you grow up in: ")
+pet = input("Whats the name of your favorite pet: ")
+print(("Your band name is..... The " + city + " " + pet + "!"))
